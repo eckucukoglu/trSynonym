@@ -1,6 +1,6 @@
 # trSynonym
 
-Turkish language synonym finder.
+Turkish synonym finder.
 
 Required python libraries:
 
